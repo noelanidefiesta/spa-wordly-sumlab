@@ -1,0 +1,20 @@
+{
+  "name": "spa-wordly-sumlab",
+  "version": "1.0.0",
+  "description": "This is my summative project for Flatiron School. It's a simple single-page dictionary app that lets you search for any English word and see the definition, part of speech, an example sentence, synonyms, and pronunciation audio — all pulled from the Free Dictionary API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelanidefiesta/spa-wordly-sumlab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noelanidefiesta/spa-wordly-sumlab/issues"
+  },
+  "homepage": "https://github.com/noelanidefiesta/spa-wordly-sumlab#readme"
+}
